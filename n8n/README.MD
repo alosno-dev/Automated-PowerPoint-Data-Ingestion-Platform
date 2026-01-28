@@ -56,8 +56,7 @@ The main workflow performs the following steps:
 
 ## Workflow Diagram
 
-> 📌 Add a screenshot of the workflow here  
-> Example: `docs/screenshots/n8n_workflow.png`
+(docs/imagen_2026-01-28_170624532.png)
 
 This visual representation helps understand the orchestration logic and node dependencies.
 
