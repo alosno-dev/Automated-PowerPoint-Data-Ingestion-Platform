@@ -10,6 +10,7 @@ End-to-end system that automatically extracts, normalizes, and ingests vehicle d
 
 ## Problem
 Vehicle providers delivered data in inconsistent PowerPoint formats, requiring manual processing and high operational cost.
+![Car example](./docs/imagen_2026-01-28_171228564.png)
 
 ## Solution
 I designed and implemented an automated pipeline that:
@@ -33,6 +34,7 @@ I designed and implemented an automated pipeline that:
    - Slide text
    - Images
    - Pricing tables (OCR)
+   - Detects the Environmental label of the car
 3. OpenCV analyzes slide images to:
    - Categorize vehicle label images
    - Detect label position and size within the slide
