@@ -1,7 +1,7 @@
 # Automated-PowerPoint-Data-Ingestion-Platform
 End-to-end system that automatically extracts, normalizes, and ingests vehicle data from PowerPoint files into a web platform using FastAPI, n8n, and AI agents.
 
-# Key Features
+## Key Features
 - Automated ingestion of vehicle data from PowerPoint
 - OCR and computer vision–based image classification
 - Automatic detection, extraction, and publishing of vehicle label images
@@ -44,7 +44,7 @@ I designed and implemented an automated pipeline that:
    - AI-based normalization
 6. Clean data is stored in the database
 
-# Tech Stack
+## Tech Stack
 Backend
 - Python
 - FastAPI – REST API for data ingestion and processing
