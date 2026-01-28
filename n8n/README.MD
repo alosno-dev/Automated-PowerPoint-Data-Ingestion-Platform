@@ -56,7 +56,7 @@ The main workflow performs the following steps:
 
 ## Workflow Diagram
 
-(docs/imagen_2026-01-28_170624532.png)
+![n8n workflow](docs/imagen_2026-01-28_170624532.png)
 
 This visual representation helps understand the orchestration logic and node dependencies.
 
