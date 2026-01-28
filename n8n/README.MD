@@ -58,8 +58,6 @@ The main workflow performs the following steps:
 
 ![n8n workflow](../docs/imagen_2026-01-28_170624532.png)
 
-This visual representation helps understand the orchestration logic and node dependencies.
-
 ---
 
 ## Key Design Decisions
