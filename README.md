@@ -64,6 +64,7 @@ Artificial Intelligence
 - LLM-based AI Agent – Data normalization, structuring, and validation of unstructured information
 
 Databases
+- Redis - N8N orchestration between paralallel workflows executions
 - Relational Database (MySQL) – Vehicle data persistence
 
 DevOps & Tooling
