@@ -10,6 +10,7 @@ End-to-end system that automatically extracts, normalizes, and ingests vehicle d
 
 ## Problem
 Vehicle providers delivered data in inconsistent PowerPoint formats, requiring manual processing and high operational cost.
+
 ![Car example](./docs/imagen_2026-01-28_171228564.png)
 
 ## Solution
@@ -74,7 +75,21 @@ DevOps & Tooling
 - Git & GitHub – Version control and collaboration
 - Environment-based configuration (.env)
 
+## N8N orchestration workflow
+
+![N8Norchestration workflow](/docs/imagen_2026-01-28_170624532.png)
+
 ## Computer Vision Logic
 
 OpenCV is used to analyze slide images and identify vehicle label elements based on visual characteristics, spatial position, and relative size.  
 Once detected, label images are dynamically cropped, categorized, and uploaded to the web server, where they are associated with the corresponding vehicle records.
+
+## Final result
+
+Cars are uploaded successfully into the website's database.
+
+![Cars carousel](/docs/image.png)
+
+Individually, the features of each car are also stored.
+
+![Car features](/docs/ResultadoFinal.mp4)
