@@ -92,4 +92,4 @@ Cars are uploaded successfully into the website's database.
 
 Individually, the features of each car are also stored.
 
-![Car features](/docs/ResultadoFinal.mp4)
+![Car features](/docs/ResultadoFinal.gif)
